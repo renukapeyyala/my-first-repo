@@ -1,0 +1,3 @@
+Renuka peyyala
+BCA
+GitHub is a proprietary developer platform that enables individuals and teams to create, store, manage, and share their code. It is a cloud-based platform built upon Git, an open-source distributed version control system. 
